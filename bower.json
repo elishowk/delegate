@@ -1,0 +1,11 @@
+{
+  "name": "delegate",
+  "description": "Event delegation component",
+  "version": "0.1.1",
+  "keywords": ["event", "events", "delegate", "delegation"],
+  "dependencies": {
+    "matches-selector": "elishowk/matches-selector",
+    "event": "elishowk/event"
+  },
+  "main": "index.js"
+}
